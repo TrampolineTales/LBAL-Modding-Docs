@@ -8,8 +8,9 @@
 * Referencing symbols by grid position (eg. Silver Arrow)
 * Counting adjacent symbol group size (eg. Rusty Gear)
 * Handling Popsicle/Popsicle Essence effect?
+* Credit Card and Chili Powder effects?
 ## Symbol variables
-* "Activations Remaining" variable
+* "Activations Remaining" variable (Checkered Flag, Time Machine)
 * Groups
 * `"all_adjacent_symbols"` anim target (the active symbol causes all symbols around it, including itself, to animate)
 * Sprite index, multiple sprites (eg. dice)
