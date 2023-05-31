@@ -31,3 +31,6 @@
 ## var_math
 * example random number usage:
   * `"starting_value": { "rand_num": { "min": 0.00001, "max": 4, "ceil": true }`
+## Misc
+* Keyword/text coloration without using fixed color codes, eg. `<color_FBF236>`
+  * As far as I can tell, this is not possible. `item_reminder_up_text` exists, but do not have markup for description text, just Value Text
