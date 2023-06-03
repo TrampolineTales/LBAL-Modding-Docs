@@ -36,3 +36,4 @@
 * As far as I can tell, "if any symbol anywhere is the `reverse_type` or `reverse_group` specified, then perform this `"reverse_adjacent_symbol"` effect centered on that symbol unconditionally"
 * eg. the following will cause a magpie to gain a permanent bonus for every symbol adjacent to it, even though the conditions will never pass:
     `{ "effect_type":"reverse_adjacent_symbol", "conditions":[ {"a":1, "b": 2} ], "reverse_type":"magpie", "value_to_change":"permanent_bonus", "diff":1, "target_self":true }`
+* `not_prev:true` does not appear to work as described
