@@ -1,3 +1,3 @@
 # LBAL-Modding-Docs
 
-The documentation is under construciton and not 100% complete. However, you can take a look at the [wiki](https://github.com/TrampolineTales/LBAL-Modding-Docs/wiki) if you'd like to get started making mods for [Luck be a Landlord](http://LuckBeALandlord.com/)!
+The documentation is under construciton. Much of the docuemntation on the [wiki](https://github.com/TrampolineTales/LBAL-Modding-Docs/wiki) is not currently accurate for the current version of Luck be a Landlord, but will _become_ accurate when v1.2 releases on January 5th, 2024. Thank you for your patience!
